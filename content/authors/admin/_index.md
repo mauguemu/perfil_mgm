@@ -47,4 +47,4 @@ title: Mauricio Guevara-Murillo
 Mauricio Guevara Murillo, Master in Urban Development of the Institute of Urban and Territorial Studies of the Pontificia Universidad Católica de Chile. Degree in Architecture from the School of Architecture and Urbanism of the Tecnológico de Costa Rica. In addition, Bachelor of Science in Education with emphasis in the Teaching of Mathematics from the American University of Costa Rica. With teaching experience since 2000 and experience in university teaching and research since 2014
 
 
-{{< icon name="download" pack="fas" >}} Download my {{< staticref "uploads/CV_MGM" "newtab" >}}resumé{{< /staticref >}}.
+{{< icon name="download" pack="fas" >}} Download my {{< staticref "uploads/demo_resume.pdf" "newtab" >}}resumé{{< /staticref >}}.
